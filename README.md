@@ -10,11 +10,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0014-longest-common-prefix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshat-vishwakarm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0013-roman-to-integer) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshat-vishwakarm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +38,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshat-vishwakarm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshat-vishwakarm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
