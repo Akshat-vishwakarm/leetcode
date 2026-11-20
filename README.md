@@ -20,13 +20,19 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Akshat-vishwakarm/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
